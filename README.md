@@ -18,9 +18,6 @@ Software Quality Assurance Engineer focused on delivering stable, high-quality w
 ## Education
 - **Bachelor of Science in Computer Science & Engineering**: North South University
 
-## Projects
-- **Mango Disease Detection System**: Using CNN & SVM for disease detection in mangoes. [Research Project]
-
 ## Contact
 - **Email**: 📧 [hemelsarkershuvo@gmail.com](mailto:hemelsarkershuvo@gmail.com)
 - **LinkedIn**: 💼 [Hemel Sarker Shuvo](https://www.linkedin.com/in/hemel-sarker-shuvo)
