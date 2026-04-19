@@ -1,8 +1,5 @@
 # Hemel Sarker Shuvo
 ### Software Quality Assurance Engineer | GitHub: [hemel07](https://github.com/hemel07)
-
-<img src="./profile.jpg" alt="Profile Picture" width="240" />
-
 ---
 ## About Me
 Software Quality Assurance Engineer focused on delivering stable, high-quality web and mobile applications through disciplined testing and strong quality ownership. Execute functional, regression, UI/UX, API, and responsive testing across platforms, translating product requirements into precise test cases and actionable defect reports. Work closely with engineering and product teams to improve usability, workflows, and release reliability while continuously advancing modern QA tools and automation practices.
