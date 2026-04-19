@@ -15,9 +15,7 @@ Software Quality Assurance Engineer focused on delivering stable, high-quality w
 - **Methodologies**: ![Agile](https://img.shields.io/badge/Agile-000000?style=for-the-badge&logo=agile&logoColor=white) ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrum&logoColor=white)
 
 ## Education
-- **Bachelor of Science in Computer Science & Engineering**: North South University, 2024 (GPA: 3.19/4.0)
-- **Higher Secondary Certificate in Science**: Burial Model College, 2018
-- **Secondary School Certificate in Science**: Gaibandha Govt. Boys High School, 2016
+- **Bachelor of Science in Computer Science & Engineering**: North South University
 
 ## Projects
 - **Mango Disease Detection System**: Using CNN & SVM for disease detection in mangoes. [Research Project]
