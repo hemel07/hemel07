@@ -1,7 +1,7 @@
 # Hemel Sarker Shuvo
 ### Software Quality Assurance Engineer | GitHub: [hemel07](https://github.com/hemel07)
 
-![Profile Picture](./profile.jpg)
+<img src="./profile.jpg" alt="Profile Picture" width="150" />
 
 ---
 ## About Me
