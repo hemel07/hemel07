@@ -28,4 +28,4 @@ Software Quality Assurance Engineer focused on delivering stable, high-quality w
 
 ---
 
-*This profile is designed for a clean, professional look. Customize with your actual information.*
+
